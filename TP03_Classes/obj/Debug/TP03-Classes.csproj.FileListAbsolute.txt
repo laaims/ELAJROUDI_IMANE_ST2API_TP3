@@ -1,0 +1,12 @@
+C:\Users\Aazam Jutt\source\repos\WeatherApi-TP\Models\bin\Debug\Models.dll
+C:\Users\Aazam Jutt\source\repos\WeatherApi-TP\Models\bin\Debug\Models.pdb
+C:\Users\Aazam Jutt\source\repos\WeatherApi-TP\Models\obj\Debug\TP03-Classes.csproj.CoreCompileInputs.cache
+C:\Users\Aazam Jutt\source\repos\WeatherApi-TP\Models\obj\Debug\Models.dll
+C:\Users\Aazam Jutt\source\repos\WeatherApi-TP\Models\obj\Debug\Models.pdb
+C:\Users\Aazam Jutt\source\repos\WeatherApi-TP\Models\obj\Debug\TP03-Classes.csproj.AssemblyReference.cache
+C:\Users\Aazam Jutt\source\repos\WeatherApi-TP\TP03_Classes\bin\Debug\Models.dll
+C:\Users\Aazam Jutt\source\repos\WeatherApi-TP\TP03_Classes\bin\Debug\Models.pdb
+C:\Users\Aazam Jutt\source\repos\WeatherApi-TP\TP03_Classes\obj\Debug\TP03-Classes.csproj.AssemblyReference.cache
+C:\Users\Aazam Jutt\source\repos\WeatherApi-TP\TP03_Classes\obj\Debug\TP03-Classes.csproj.CoreCompileInputs.cache
+C:\Users\Aazam Jutt\source\repos\WeatherApi-TP\TP03_Classes\obj\Debug\Models.dll
+C:\Users\Aazam Jutt\source\repos\WeatherApi-TP\TP03_Classes\obj\Debug\Models.pdb

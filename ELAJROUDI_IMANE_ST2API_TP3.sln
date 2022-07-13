@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP03-UI", "TP03_UI\TP03-UI.csproj", "{DF51F7F1-0AE5-40CA-B8BB-714EB3A59210}"
+	ProjectSection(ProjectDependencies) = postProject
+		{55E174DC-16BC-4A88-8DE2-59475414C141} = {55E174DC-16BC-4A88-8DE2-59475414C141}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP03-Classes", "TP03_Classes\TP03-Classes.csproj", "{55E174DC-16BC-4A88-8DE2-59475414C141}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF51F7F1-0AE5-40CA-B8BB-714EB3A59210}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF51F7F1-0AE5-40CA-B8BB-714EB3A59210}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF51F7F1-0AE5-40CA-B8BB-714EB3A59210}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF51F7F1-0AE5-40CA-B8BB-714EB3A59210}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55E174DC-16BC-4A88-8DE2-59475414C141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55E174DC-16BC-4A88-8DE2-59475414C141}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55E174DC-16BC-4A88-8DE2-59475414C141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55E174DC-16BC-4A88-8DE2-59475414C141}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D082FE53-AC66-471F-A3AA-0C9EDFC77860}
+	EndGlobalSection
+EndGlobal

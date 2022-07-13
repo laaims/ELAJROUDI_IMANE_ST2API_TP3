@@ -1,0 +1,6 @@
+C:\Users\Aazam Jutt\source\repos\WeatherApi-TP02\Models\bin\Debug\Models.dll
+C:\Users\Aazam Jutt\source\repos\WeatherApi-TP02\Models\bin\Debug\Models.pdb
+C:\Users\Aazam Jutt\source\repos\WeatherApi-TP02\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+C:\Users\Aazam Jutt\source\repos\WeatherApi-TP02\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\Aazam Jutt\source\repos\WeatherApi-TP02\Models\obj\Debug\Models.dll
+C:\Users\Aazam Jutt\source\repos\WeatherApi-TP02\Models\obj\Debug\Models.pdb
